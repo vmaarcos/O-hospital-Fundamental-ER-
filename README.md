@@ -3,3 +3,5 @@
 
 Este repositório contém um banco de dados de biblioteca normalizado, de um hospital.
 
+*FERRAMENTA*
+Draw.io
